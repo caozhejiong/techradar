@@ -1,6 +1,8 @@
 name,ring,quadrant,isNew,description
-GithubAction,Assess,Tools,TRUE,"CI/CD piple tools.
+TBA,Hold,Frameworks,FALSE,TBA
+GithubAction,Assess,Tools-DevOps,TRUE,"CI/CD pipeline tool.
 https://github.com/features/actions"
-TBA,Hold,Langages-and-frameworks,FALSE,TBA
+Playwright,Assess,Tools-DevOps,TRUE,"Web Test tool.
+https://playwright.dev/java/"
 TBA,Trial,Platforms,FALSE,TBA
 TBA,Adopt,Techniques,FALSE,TBA
