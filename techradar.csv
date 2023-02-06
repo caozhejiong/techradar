@@ -44,5 +44,5 @@ flutter,?,Tools-DevOps,TRUE,"Cross-platform UI framework by google. Language: Da
 https://flutter.dev/"
 Jmockit,?,Tools-DevOps,TRUE,"automated testing mock toolkit for Java:
 https://jmockit.github.io/"
-Golang,?,Techniques,TRUE,https://go.dev/
-Rust,?,Techniques,TRUE,https://www.rust-lang.org/
+Golang,?,Language,TRUE,https://go.dev/
+Rust,?,Language,TRUE,https://www.rust-lang.org/
