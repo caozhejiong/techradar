@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-GithubAction,Assess,Tools-DevOps,TRUE,"CI/CD pipeline tool.
+GithubAction,Assess?,Tools-DevOps,TRUE,"CI/CD pipeline tool.
 https://github.com/features/actions"
 Playwright,Assess?,Tools-DevOps,TRUE,"Web Test tool.
 https://playwright.dev/java/"
