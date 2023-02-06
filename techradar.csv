@@ -2,7 +2,48 @@ name,ring,quadrant,isNew,description
 TBA,Hold,Frameworks,FALSE,TBA
 GithubAction,Assess,Tools-DevOps,TRUE,"CI/CD pipeline tool.
 https://github.com/features/actions"
-Playwright,Assess,Tools-DevOps,TRUE,"Web Test tool.
+Playwright,Assess?,Tools-DevOps,TRUE,"Web Test tool.
 https://playwright.dev/java/"
-TBA,Trial,Platforms,FALSE,TBA
-TBA,Adopt,Techniques,FALSE,TBA
+WebAssembly (Wasm) ,?,Techniques,TRUE,"https://webassembly.org/
+WASM Run time:  WAMR (C) , Wasmer (Rust)
+https://github.com/bytecodealliance/wasm-micro-runtime
+https://wasmer.io/"
+Pytorch,?,Platforms,TRUE,"AI framework:
+https://pytorch.org/"
+Jest,?,Tools-DevOps,TRUE,"Java script testing framework:
+https://jestjs.io/"
+GraphQL,?,Techniques,TRUE,"API query language
+https://graphql.org/"
+httpie & json-server,?,Tools-DevOps,TRUE,"HTTP Client mock:
+https://github.com/httpie/httpie
+REST Server mock:
+https://github.com/typicode/json-server"
+fake-smtp-server,?,Tools-DevOps,TRUE,"SMTP server mock:
+https://github.com/gessnerfl/fake-smtp-server"
+Camunda,?,Platforms,TRUE,"Process orchestrator:
+https://camunda.com/"
+OpenAI,Assess?,Tools-DevOps,TRUE,"for code scan & code generation:
+https://openai.com/api/"
+Docker image multi-stage build,Assess?,Tools-DevOps,TRUE,"Docker image multi-stage build:
+https://docs.docker.com/build/building/multi-stage/"
+Spring Native,Assess?,Tools-DevOps,TRUE,"Spring native:
+https://docs.spring.io/spring-native/docs/current/reference/htmlsingle/
+Reference:
+https://waynerv.com/posts/how-to-reduce-docker-image-size/
+https://blog.codecentric.de/spring-boot-graalvm-docker-heroku
+https://maddevs.io/blog/spring-boot-vs-quarkus/"
+Uipath (RPA),Hold,Platforms,TRUE,https://www.uipath.com.cn/rpa/robotic-process-automation/
+Lamda(AWS),?,Platforms,TRUE,"AWS serverless compute service:
+https://aws.amazon.com/lambda/"
+Terraform,Assess?,Tools-DevOps,TRUE,"Iac:
+https://www.terraform.io/"
+Cloudformation(AWS),Hold?,Platforms,TRUE,"IaC:
+https://aws.amazon.com/cloudformation/"
+arthas,Adopt?,Tools-DevOps,TRUE,"Java Diagnostic tool open sourced by Alibaba:
+https://arthas.aliyun.com/doc/"
+flutter,?,Tools-DevOps,TRUE,"Cross-platform UI framework by google. Language: Dart
+https://flutter.dev/"
+Jmockit,?,Tools-DevOps,TRUE,"automated testing mock toolkit for Java:
+https://jmockit.github.io/"
+Golang,?,Techniques,TRUE,https://go.dev/
+Rust,?,Techniques,TRUE,https://www.rust-lang.org/
