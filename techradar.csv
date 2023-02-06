@@ -1,5 +1,4 @@
 name,ring,quadrant,isNew,description
-TBA,Hold,Frameworks,FALSE,TBA
 GithubAction,Assess,Tools-DevOps,TRUE,"CI/CD pipeline tool.
 https://github.com/features/actions"
 Playwright,Assess?,Tools-DevOps,TRUE,"Web Test tool.
@@ -32,14 +31,14 @@ Reference:
 https://waynerv.com/posts/how-to-reduce-docker-image-size/
 https://blog.codecentric.de/spring-boot-graalvm-docker-heroku
 https://maddevs.io/blog/spring-boot-vs-quarkus/"
-Uipath (RPA),Hold,Platforms,TRUE,https://www.uipath.com.cn/rpa/robotic-process-automation/
+Uipath (RPA),Hold?,Platforms,TRUE,https://www.uipath.com.cn/rpa/robotic-process-automation/
 Lamda(AWS),?,Platforms,TRUE,"AWS serverless compute service:
 https://aws.amazon.com/lambda/"
 Terraform,Assess?,Tools-DevOps,TRUE,"Iac:
 https://www.terraform.io/"
 Cloudformation(AWS),Hold?,Platforms,TRUE,"IaC:
 https://aws.amazon.com/cloudformation/"
-arthas,Adopt?,Tools-DevOps,TRUE,"Java Diagnostic tool open sourced by Alibaba:
+arthas,Assess?,Tools-DevOps,TRUE,"Java Diagnostic tool open sourced by Alibaba:
 https://arthas.aliyun.com/doc/"
 flutter,?,Tools-DevOps,TRUE,"Cross-platform UI framework by google. Language: Dart
 https://flutter.dev/"
