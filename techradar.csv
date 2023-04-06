@@ -8,11 +8,11 @@ WASM Run time:  WAMR (C) , Wasmer (Rust)
 https://github.com/bytecodealliance/wasm-micro-runtime
 https://wasmer.io/",Ma Bing,open
 Pytorch,Assess,Platforms,TRUE,"AI framework:
-https://pytorch.org/",Donghui,open
+https://pytorch.org/",Donghui,on-going 20%
 Jest,Assess,Tools-DevOps,TRUE,"Java script testing framework:
-https://jestjs.io/",Ma Bing,on-going
+https://jestjs.io/",Ma Bing,on-going 5%
 GraphQL,Hold,Techniques,TRUE,"API query language
-https://graphql.org/",,
+https://graphql.org/",Cao Zhejiong,done
 httpie & json-server,Hold,Tools-DevOps,TRUE,"HTTP Client mock:
 https://github.com/httpie/httpie
 REST Server mock:
@@ -22,15 +22,15 @@ https://github.com/gessnerfl/fake-smtp-server",,
 Camunda,Assess,Platforms,TRUE,"Process orchestrator:
 https://camunda.com/",,
 OpenAI,Assess,Tools-DevOps,TRUE,"for code scan & code generation:
-https://openai.com/api/","Wangyi, zhong qiang",50% creating docs
+https://openai.com/api/","Wangyi, zhong qiang",done
 Docker image multi-stage build,Assess,Tools-DevOps,TRUE,"Docker image multi-stage build:
-https://docs.docker.com/build/building/multi-stage/","Cao Zhejiong, Wang Tianyi, Wang Jiayi","80%, tianyi on-going"
+https://docs.docker.com/build/building/multi-stage/","Cao Zhejiong, Wang Tianyi, Wang Jiayi",done
 Spring Native/Quarkus,Assess,Tools-DevOps,TRUE,"Spring native:
 https://docs.spring.io/spring-native/docs/current/reference/htmlsingle/
 Reference:
 https://waynerv.com/posts/how-to-reduce-docker-image-size/
 https://blog.codecentric.de/spring-boot-graalvm-docker-heroku
-https://maddevs.io/blog/spring-boot-vs-quarkus/","Guan xiang(Spring Native), Qin Qing(Quarkus)",Open
+https://maddevs.io/blog/spring-boot-vs-quarkus/","Guan xiang(Spring Native), Qin Qing(Quarkus)","Spring Native 20%, Quarkus 100%"
 Uipath (RPA),Hold,Platforms,TRUE,https://www.uipath.com.cn/rpa/robotic-process-automation/,,
 Lamda(AWS),Hold,Platforms,TRUE,"AWS serverless compute service:
 https://aws.amazon.com/lambda/",,
